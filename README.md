@@ -12,7 +12,7 @@
 
 2023.03 ~ 2023.11 Statistical Analysis Group P-SAT | Deep Learning Team & Categorical Data Analysis Team
 
-2024.01 ~ Wooricard | Digital Payment Team
+2024.01 ~         Wooricard | Digital Payment Team
 
 
 ### Tools
