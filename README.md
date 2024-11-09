@@ -17,8 +17,8 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>, <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-, <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-
+, <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>, <img src="https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+, <img src="https://img.shields.io/badge/-oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
 <!--
 **yongwon38/yongwon38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
