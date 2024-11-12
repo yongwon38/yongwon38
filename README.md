@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!-- 👩🏻‍💻 Interested in Personalized AI, MLOps, TimeSeries Analysis... -->
 
