@@ -15,10 +15,18 @@
 2024.01 ~         Wooricard | Digital Payment Team
 
 
-### Tools
-<img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>, <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-, <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>, <img src="https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+### Skills & Tools
+<img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>, 
+<img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>, 
+<img src="https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>, 
+<img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>, 
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+, <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
 , <img src="https://img.shields.io/badge/-oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+
+, <img src="https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+
 
 <!--
 **yongwon38/yongwon38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
