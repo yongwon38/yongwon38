@@ -12,7 +12,7 @@
 
 2023.03 ~ 2023.11 &nbsp; Statistical Analysis Group P-SAT | Deep Learning Team & Categorical Data Analysis Team
 
-2024.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wooricard | Digital Payment Team
+2024.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wooricard | Digital Payment Team
 
 
 ### Skills & Tools
@@ -20,11 +20,7 @@
 <img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>, 
 <img src="https://img.shields.io/badge/-tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>, 
 <img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>, 
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-, <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>
-, <img src="https://img.shields.io/badge/-oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>, <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"/>, <img src="https://img.shields.io/badge/-oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 , <img src="https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 
 
