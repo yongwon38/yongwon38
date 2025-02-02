@@ -9,7 +9,8 @@
 ### Activities
 - 2022.03 ~ 2023.01 &nbsp; Data Analysis Group DScover | Data Visualization Team & Machine Learning Team
 - 2023.03 ~ 2023.11 &nbsp; Statistical Analysis Group P-SAT | Deep Learning Team & Categorical Data Analysis Team
-- 2024.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wooricard | Digital Payment Team
+- 2024.01 ~ 2025.01 &nbsp; Wooricard | Digital Payment Team
+- 2025.02 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lotte Ins | 
 
 
 ### Skills & Tools
