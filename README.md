@@ -5,7 +5,7 @@
 ### Education
 - 2018.03 ~ 2024.02 &nbsp; B.S. in Consumer Science at SKKU
 - 2021.03 ~ 2024.02 &nbsp; B.S. in Statistics at SKKU
-- 2026.03 ~  &nbsp; M.S. in Data Science at SKKU
+- 2026.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in Data Science at SKKU
 
 ### Activities
 - 2022.03 ~ 2023.01 &nbsp; Data Analysis Group DScover | Data Visualization Team & Machine Learning Team
